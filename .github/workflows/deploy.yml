@@ -33,5 +33,7 @@ jobs:
           azPSVersion: latest
           errorActionPreference: Stop
           failOnStandardError: true # optional, default is false
-          echo Add other actions to build,
-          echo test, and deploy your project.
+
+
+
+
